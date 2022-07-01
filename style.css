@@ -22,7 +22,7 @@ p{
 .header_name{
   margin-top: 10px;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .header_name a{
@@ -51,3 +51,8 @@ p{
 .header_title{
   margin-top: 20px;
 }
+
+@media screen and (max-width: 968px){
+  body{
+    margin: 0 0 0 0;
+  }

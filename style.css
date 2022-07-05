@@ -58,6 +58,8 @@ p{
   }
 
   .page{
+    width: 93%;
+    text-align: justify;
     padding: 10px 20px 10px 20px;
   }
 }
@@ -68,6 +70,8 @@ p{
   }
 
   .page{
+    width: 93%;
+    text-align: justify;
     padding: 10px 20px 10px 20px;
   }
 

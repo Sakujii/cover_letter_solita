@@ -56,7 +56,29 @@ p{
   body{
     margin: 0 0 0 0;
   }
+
   .page{
     padding: 10px 20px 10px 20px;
+  }
+}
+
+@media screen and (max-width: 450px){
+  body{
+    margin: 0 0 0 0;
+  }
+
+  .page{
+    padding: 10px 20px 10px 20px;
+  }
+
+  .header{
+    display: block;
+  }
+
+  .header_right{
+    font-size: 12px;
+    text-align: left;
+    margin-top: 20px;
+
   }
 }
